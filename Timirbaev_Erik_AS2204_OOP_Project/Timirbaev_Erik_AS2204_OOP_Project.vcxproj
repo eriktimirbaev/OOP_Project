@@ -128,11 +128,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="TimirbaevAutoCourier.cpp" />
     <ClCompile Include="TimirbaevCourier.cpp" />
     <ClCompile Include="TimirbaevMain.cpp" />
     <ClCompile Include="TimirbaevPark.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="TimirbaevAutoCourier.h" />
     <ClInclude Include="TimirbaevCourier.h" />
     <ClInclude Include="TimirbaevPark.h" />
     <ClInclude Include="TimirbaevUtilities.h" />

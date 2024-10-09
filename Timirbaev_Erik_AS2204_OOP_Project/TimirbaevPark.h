@@ -1,19 +1,22 @@
 #pragma once
+#include <vector>
+#include "TimirbaevAutoCourier.h"
 #include "TimirbaevCourier.h"
 #include "TimirbaevUtilities.h"
-#include <vector>
 
 class TimirbaevPark
 {
 private:
-	std::vector<TimirbaevCourier*> couriers;
+	std::vector<std::shared_ptr<TimirbaevCourier>> couriers;
 
 public:
 	void AddCourier();
- 	void ViewCouriers();
+ 	void AddAutoCourier();
 	void DeleteCouriers();
-	void Save();
-	void Dowloand();
+	//void Save();
+	//void Dowloand();
+
+	friend std::ostream& operator << (std::ostream& out, TimirbaevPark& g);
 
 	~TimirbaevPark() {
 		DeleteCouriers();

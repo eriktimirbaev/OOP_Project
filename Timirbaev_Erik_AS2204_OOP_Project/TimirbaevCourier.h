@@ -15,17 +15,20 @@ private:
 public:
 	static int MaxId;
 
-	TimirbaevCourier() {
-		id = ++MaxId;
-		//std::cout << "Вызван конструктор." << std::endl;
+	TimirbaevCourier(std::string firstname, std::string surname, int age, std::string phone) {
+		this->id = ++MaxId;;
+		this->firstname = firstname;
+		this->surname = surname;
+		this->age = age;
+		this->phone = phone;
+		//std::cout << "Вызван конструктор класса TimirbaevCourier." << std::endl;
 	}
 
-	friend std::istream& operator >> (std::istream& cin, TimirbaevCourier& courier);
-	friend std::ostream& operator << (std::ostream& cout, TimirbaevCourier& courier);
-	friend std::ifstream& operator >> (std::ifstream& fin, TimirbaevCourier& courier);
-	friend std::ofstream& operator << (std::ofstream& fout, TimirbaevCourier& courier);
+	virtual void CreateCourier(std::istream& in);
+	virtual void ShowCourier(std::ostream& out);
+
 
 	~TimirbaevCourier() {
-		//std::cout << "Вызван деструктор." << std::endl;
+		//std::cout << "Вызван деструктор класса TimirbaevCourier." << std::endl;
 	}
 };
