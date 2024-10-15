@@ -46,12 +46,12 @@ int main() {
 		}
 		case 4:
 		{
-			//park.Dowloand();
+			park.LoadSer();
 			break;
 		}
 		case 5:
 		{
-			//park.Save();
+			park.SaveSer();
 			break;
 		}
 		case 6:

@@ -2,6 +2,13 @@
 #include <iostream>
 #include <string>
 
+#include <boost/archive/text_iarchive.hpp>
+#include <boost/archive/text_oarchive.hpp>
+#include <boost/serialization/vector.hpp>
+#include <boost/serialization/string.hpp>
+#include <boost/serialization/version.hpp>
+#include <boost/serialization/split_member.hpp>
+
 
 inline bool IntCheck(std::string input) {
 	for (int i = 0; i < input.length(); i++) {

@@ -1,5 +1,6 @@
 #pragma once
 #include "TimirbaevCourier.h"
+#include <boost/serialization/base_object.hpp>
 
 class TimirbaevAutoCourier : public TimirbaevCourier
 {
@@ -9,14 +10,19 @@ private:
 
 public:
 
-	TimirbaevAutoCourier(std::string firstname, std::string surname, int age, std::string phone, std::string car_model, std::string car_number) : TimirbaevCourier(firstname, surname, age, phone) {
-		this->car_model = car_model;
-		this->car_number = car_number;
+	TimirbaevAutoCourier() : TimirbaevCourier() {
 		//std::cout << "Вызван конструктор класса TimirbaevAutoCourier." << std::endl;
 	}
 
 	void CreateCourier(std::istream& in) override;
 	void ShowCourier(std::ostream& out) override; 
+
+	template<class Archive>
+	void serialize(Archive& ar, const unsigned int version) {
+		ar& boost::serialization::base_object<TimirbaevCourier>(*this);
+		ar& car_model;
+		ar& car_number;
+	}
 
 	~TimirbaevAutoCourier() {
 		//std::cout << "Вызван деструктор класса TimirbaevAutoCourier." << std::endl;

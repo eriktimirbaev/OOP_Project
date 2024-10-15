@@ -1,6 +1,6 @@
-﻿  TimirbaevAutoCourier.cpp
-  TimirbaevCourier.cpp
+﻿  TimirbaevCourier.cpp
   TimirbaevMain.cpp
   TimirbaevPark.cpp
+C:\Users\User\Documents\GitHub\OOP_Project\Timirbaev_Erik_AS2204_OOP_Project\TimirbaevPark.cpp(86,28): warning C4101: e: неиспользованная локальная переменная
   Создание кода...
   Timirbaev_Erik_AS2204_OOP_Project.vcxproj -> C:\Users\User\Documents\GitHub\OOP_Project\Timirbaev_Erik_AS2204_OOP_Project\x64\Debug\Timirbaev_Erik_AS2204_OOP_Project.exe
