@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\OOP_Project\\Timirbaev_Erik_Lab_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F19DBEC-E243-4E63-91FA-A8649702FE78}|Timirbaev_Erik_Lab_5.csproj|c:\\users\\user\\documents\\github\\oop_project\\timirbaev_erik_lab_5\\timirbaevcourier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F19DBEC-E243-4E63-91FA-A8649702FE78}|Timirbaev_Erik_Lab_5.csproj|solutionrelative:timirbaevcourier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F19DBEC-E243-4E63-91FA-A8649702FE78}|Timirbaev_Erik_Lab_5.csproj|c:\\users\\user\\documents\\github\\oop_project\\timirbaev_erik_lab_5\\timirbaevautocourier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F19DBEC-E243-4E63-91FA-A8649702FE78}|Timirbaev_Erik_Lab_5.csproj|solutionrelative:timirbaevautocourier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F19DBEC-E243-4E63-91FA-A8649702FE78}|Timirbaev_Erik_Lab_5.csproj|c:\\users\\user\\documents\\github\\oop_project\\timirbaev_erik_lab_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F19DBEC-E243-4E63-91FA-A8649702FE78}|Timirbaev_Erik_Lab_5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F19DBEC-E243-4E63-91FA-A8649702FE78}|Timirbaev_Erik_Lab_5.csproj|c:\\users\\user\\documents\\github\\oop_project\\timirbaev_erik_lab_5\\timirbaevpark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F19DBEC-E243-4E63-91FA-A8649702FE78}|Timirbaev_Erik_Lab_5.csproj|solutionrelative:timirbaevpark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F19DBEC-E243-4E63-91FA-A8649702FE78}|Timirbaev_Erik_Lab_5.csproj|c:\\users\\user\\documents\\github\\oop_project\\timirbaev_erik_lab_5\\timirbaevutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F19DBEC-E243-4E63-91FA-A8649702FE78}|Timirbaev_Erik_Lab_5.csproj|solutionrelative:timirbaevutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimirbaevCourier.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\OOP_Project\\Timirbaev_Erik_Lab_5\\TimirbaevCourier.cs",
+              "RelativeDocumentMoniker": "TimirbaevCourier.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\OOP_Project\\Timirbaev_Erik_Lab_5\\TimirbaevCourier.cs",
+              "RelativeToolTip": "TimirbaevCourier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:44:37.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimirbaevAutoCourier.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\OOP_Project\\Timirbaev_Erik_Lab_5\\TimirbaevAutoCourier.cs",
+              "RelativeDocumentMoniker": "TimirbaevAutoCourier.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\OOP_Project\\Timirbaev_Erik_Lab_5\\TimirbaevAutoCourier.cs",
+              "RelativeToolTip": "TimirbaevAutoCourier.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:44:54.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimirbaevUtilities.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\OOP_Project\\Timirbaev_Erik_Lab_5\\TimirbaevUtilities.cs",
+              "RelativeDocumentMoniker": "TimirbaevUtilities.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\OOP_Project\\Timirbaev_Erik_Lab_5\\TimirbaevUtilities.cs",
+              "RelativeToolTip": "TimirbaevUtilities.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:48:27.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimirbaevPark.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\OOP_Project\\Timirbaev_Erik_Lab_5\\TimirbaevPark.cs",
+              "RelativeDocumentMoniker": "TimirbaevPark.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\OOP_Project\\Timirbaev_Erik_Lab_5\\TimirbaevPark.cs",
+              "RelativeToolTip": "TimirbaevPark.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA3wBwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:48:04.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\OOP_Project\\Timirbaev_Erik_Lab_5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\OOP_Project\\Timirbaev_Erik_Lab_5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwCMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:43:18.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
