@@ -1,0 +1,27 @@
+# ninja log v5
+3	749	7578578540776278	build.ninja	eb083a7ff95c6a50
+5	1284	7578578684768686	Timirbaev_Erik_Lab_3_autogen/timestamp	b15687c9e527e006
+5	1284	7578578684768686	Timirbaev_Erik_Lab_3_autogen/mocs_compilation.cpp	b15687c9e527e006
+5	1284	7578578684768686	C:/Users/User/Documents/GitHub/OOP_Project/Timirbaev_Erik_Lab_3/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/Timirbaev_Erik_Lab_3_autogen/timestamp	b15687c9e527e006
+5	1284	7578578684768686	C:/Users/User/Documents/GitHub/OOP_Project/Timirbaev_Erik_Lab_3/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/Timirbaev_Erik_Lab_3_autogen/mocs_compilation.cpp	b15687c9e527e006
+1344	4239	7578578714966016	CMakeFiles/Timirbaev_Erik_Lab_3.dir/timirbaevautocourier.cpp.obj	ec42581ef79feda8
+1339	4245	7578578714996163	CMakeFiles/Timirbaev_Erik_Lab_3.dir/timirbaevcourier.cpp.obj	ff75245a1f950541
+1348	5226	7578578724856544	CMakeFiles/Timirbaev_Erik_Lab_3.dir/timirbaevpark.cpp.obj	2ce4e167c120a1b3
+38	806	7578580181966730	Timirbaev_Erik_Lab_3_autogen/timestamp	b15687c9e527e006
+38	806	7578580181966730	Timirbaev_Erik_Lab_3_autogen/mocs_compilation.cpp	b15687c9e527e006
+38	806	7578580181966730	C:/Users/User/Documents/GitHub/OOP_Project/Timirbaev_Erik_Lab_3/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/Timirbaev_Erik_Lab_3_autogen/timestamp	b15687c9e527e006
+38	806	7578580181966730	C:/Users/User/Documents/GitHub/OOP_Project/Timirbaev_Erik_Lab_3/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/Timirbaev_Erik_Lab_3_autogen/mocs_compilation.cpp	b15687c9e527e006
+807	4145	7578580215968136	CMakeFiles/Timirbaev_Erik_Lab_3.dir/Timirbaev_Erik_Lab_3_autogen/mocs_compilation.cpp.obj	73fc2132bc8cf96a
+810	4176	7578580216258051	CMakeFiles/Timirbaev_Erik_Lab_3.dir/main.cpp.obj	251516c0b01152af
+65	252	7578580671725817	Timirbaev_Erik_Lab_3_autogen/timestamp	b15687c9e527e006
+65	252	7578580671725817	Timirbaev_Erik_Lab_3_autogen/mocs_compilation.cpp	b15687c9e527e006
+65	252	7578580671725817	C:/Users/User/Documents/GitHub/OOP_Project/Timirbaev_Erik_Lab_3/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/Timirbaev_Erik_Lab_3_autogen/timestamp	b15687c9e527e006
+65	252	7578580671725817	C:/Users/User/Documents/GitHub/OOP_Project/Timirbaev_Erik_Lab_3/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/Timirbaev_Erik_Lab_3_autogen/mocs_compilation.cpp	b15687c9e527e006
+262	3232	7578580704965827	CMakeFiles/Timirbaev_Erik_Lab_3.dir/timirbaevmainwindow.cpp.obj	f52d09b475237c44
+34	214	7578582859264337	Timirbaev_Erik_Lab_3_autogen/timestamp	b15687c9e527e006
+34	214	7578582859264337	Timirbaev_Erik_Lab_3_autogen/mocs_compilation.cpp	b15687c9e527e006
+34	214	7578582859264337	C:/Users/User/Documents/GitHub/OOP_Project/Timirbaev_Erik_Lab_3/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/Timirbaev_Erik_Lab_3_autogen/timestamp	b15687c9e527e006
+34	214	7578582859264337	C:/Users/User/Documents/GitHub/OOP_Project/Timirbaev_Erik_Lab_3/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/Timirbaev_Erik_Lab_3_autogen/mocs_compilation.cpp	b15687c9e527e006
+224	3200	7578582892105658	CMakeFiles/Timirbaev_Erik_Lab_3.dir/timirbaevtable.cpp.obj	23a15bbc5c121bec
+221	3220	7578582892267256	CMakeFiles/Timirbaev_Erik_Lab_3.dir/timirbaevmainwindow.cpp.obj	f52d09b475237c44
+3220	3803	7578582897979693	Timirbaev_Erik_Lab_3.exe	ace661164025ec4
